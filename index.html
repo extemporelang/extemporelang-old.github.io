@@ -3,21 +3,51 @@ layout: default
 ---
 
 <div class="home">
+  <h1>Welcome to Extempore</h1>
+  <h2>The High Performance Lisp Environment</h2>
+  <div class="">
+    <h3>Features</h3>
+    <ul>
+      <li>Aimed at users who need high performance code execution without a garbage collector</li>
+      <li>Originally developed to create dynamic audio and visual performances</li>
+      <li>Leverages LLVM's JIT compiler to produce optimised binary code</li>
+      <li>Multi-Platform Support (Windows, OSX, Linux)</li>
+      <li>Combines Scheme and XTLang in the environment, both LISP languages</li>
+    </ul>
+  </div>
+  <div class="class">
+    <h3>Getting Started</h3>
+    <p>
+      The Extempore environment typically consists of two moving parts; the extempore process itself, and a 
+      text editor which can send code to the process in order to be evaluated. We support a number of different
+      <a href="/guides/text-editors/">text editors</a>, and installing extempore on most platforms is very straight forward.
+    </p>
+    <p>For more instructions on how to get started, <a href="/guides/getting-started">consult the guide.</a></p>
+  </div>
+  <div class="class" id="">
+    <h3>Extempore in Action</h3> 
+    <pre class="prettyprint">
+;; load our libraries
+(sys:load "libs/core/instruments.xtm")
+(sys:load "libs/core/pc_ivl.xtm")
 
-  <h1 class="page-heading">Posts</h1>
+;; load our instrument
+(bind-instrument fmsynth 
+                 fmsynth_note_c fmsynth_fx)
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+;; we are going to play the 
+;; instrument through the speakers
+(bind-func dsp:DSP
+  (lambda (in time chan dat)
+    (fmsynth in time chan dat)))
+(dsp:set! dsp)
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+;; play a random note on our instrument
+(play-note (now) 
+           fmsynth 
+           (random 60 90) 
+           80 44100)
+    </pre>
+    <!-- <iframe width="640" height="390" src="https://www.youtube.com/embed/yY1FSsUV-8c" frameborder="0" allowfullscreen></iframe> -->
+  </div>  
 </div>

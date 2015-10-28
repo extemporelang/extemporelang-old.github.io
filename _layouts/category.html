@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<h1>{{page.type | capitalize}}</h1>
+
+{% unless page.content == '' %}
+  <p>{{ page.content }}</p>
+{% endunless %}
+
+{% for post in site.categories.[page.type] %}
+  <h2><a href="{{post.url}}">{{post.title}}</a></h2>
+  {% if post.content.size < 15 %}
+  <p>{{post.content | strip_html }}</p>
+  {% else %}
+  <p>{{post.content | strip_html | truncatewords: 15}}</p>
+  {% endif %}
+{% endfor %}

@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# What is Extempore?
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Extempore is a programming language and runtime environment designed to support 'cyberphysical programming'. Cyberphysical programming supports the notion of a human programmer operating as an active agent in a real-time distributed network of environmentally aware systems. The programmer interacts with the distributed real-time system procedurally by modifying code on-the-fly.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Extempore provides a completely hotswappable runtime environment with a strong temporal semantics, a flexible concurrency architecture, builtin support for distributed heterogenous operation (both OS and Architecture), and aims to provide flexible compiler-as-a-service functionality. Extempore makes extensive use of the LLVM project to provide back-end code generation.
