@@ -15,20 +15,27 @@ is straight forward.
 **Through homebrew (OSX)**
 
 First,
+
 ```
 brew tap benswift/extempore
 ```
+
 then
+
 ```
 brew install extempore
 ```
+
 or, if you want the "extended" libs (e.g. graphics)
+
 ```
 brew install extempore --with-extended
 ```
+
 *Note:* If you've installed Extempore through homebrew previously
 (i.e. if `brew info extempore` shows a version <= 0.59) then you'll
 need to remove a couple of things first:
+
 ```
 brew rm extempore kissfft
 ```
@@ -37,6 +44,7 @@ brew rm extempore kissfft
 
 If you've got `git`, `cmake` and a C++ compiler toolchain
 installed, then you can build Extempore with:
+
 ```
 git clone https://github.com/digego/extempore && mkdir extempore/cmake-build && cd extempore/cmake-build && cmake .. && make install && make aot
 ```
