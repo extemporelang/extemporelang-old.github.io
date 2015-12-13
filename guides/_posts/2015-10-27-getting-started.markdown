@@ -5,10 +5,11 @@ title: Getting Started
 
 ## Introduction
 
-The Extempore environment typically consists of two moving parts; the extempore process itself, and a 
-text editor which can send code to the process in order to be evaluated. We support a number of different
-<a href="/guides/getting-started/#text-editors">text editors</a>, and installing extempore on most platforms 
-is straight forward.
+The Extempore environment typically consists of two moving parts; the
+extempore process itself, and a text editor which can send code to the
+process in order to be evaluated. We support a number of different <a
+href="/guides/getting-started/#text-editors">text editors</a>, and
+installing extempore on most platforms is straight forward.
 
 ## Quick install
 
