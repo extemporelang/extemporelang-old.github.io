@@ -7,3 +7,4 @@ github_username: extemporelang
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
