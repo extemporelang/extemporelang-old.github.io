@@ -5,6 +5,12 @@ url: "http://extemporelang.github.io" # the base hostname & protocol for your si
 permalink: /:categories/:title/
 github_username: extemporelang
 
+collections:
+  docs:
+    output: true
+  guides:
+    output: true
+
 # Build settings
 markdown: kramdown
 highlighter: pygments
