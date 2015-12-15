@@ -1,0 +1,79 @@
+- title: Getting started
+  docs:
+  - quickstart
+  - installation
+  - editors
+  - interacting with the compiler
+
+- title: Key concepts
+  docs:
+  - philosophy
+  - time
+  - xtlang/Scheme dichotomy
+  - is Extempore a general purpose language for multimedia art, or a
+    general purpose programming language?
+
+- title: language
+  docs:
+  - syntax (R5RS Scheme-ish?  No square brackets)
+    - define
+    - lambda
+    - let(rec/*)
+    - control flow
+  - closures
+  - c operators (e.g. bitshifting)
+  - call-as-xtlang
+
+- title: Types
+  docs:
+  - primitive
+  - tuples
+  - arrays
+  - vectors
+  - named types
+
+- title: Memory
+  docs:
+  - pointers
+  - heap/stack
+  - zones
+    - top-level closure zones
+    - letz
+  - default namedtype constructors
+    
+- title: polymorphism (& generics)
+  docs:
+  - especially overloaded addition/etc.
+  - also println
+
+- title: Misc. # (look at other language doco to see what stuff they cover)
+  docs:
+  - C-interop
+  - AOT compilation
+  - structure of the Extempore codebase (libs/examples, core/external/contrib)
+  - testing
+  - naming conventions
+  - best practices/idioms/coding conventions
+  - blogging?
+  - the future...
+  - standard library
+
+- title: getting help
+  docs:
+  - docstrings
+  - look at the docs index (function reference?)
+  - mailing list
+  - bug? submit a failing test!
+  - see the guides for more detailed explanation of
+    - audio
+    - graphics
+  - examples
+  - join the community
+  - read the source code (last resort!)
+
+- title: contributing
+  docs:
+  - editing this doco
+  - development (check that the tests pass)
+  - mini-projects
+  - roles?
