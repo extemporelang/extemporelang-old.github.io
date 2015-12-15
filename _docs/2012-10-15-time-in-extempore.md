@@ -1,6 +1,5 @@
 ---
 title: Time in Extempore
-alias: ["./2012-10-15-time-in-extempore.html"]
 categories: extempore-overview time
 ---
 

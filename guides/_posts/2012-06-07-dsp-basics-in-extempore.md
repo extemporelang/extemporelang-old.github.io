@@ -1,6 +1,5 @@
 ---
 title: DSP basics in Extempore
-alias: ["./2012-06-07-dsp-basics-in-extempore.html"]
 categories: xtlang audio
 ---
 

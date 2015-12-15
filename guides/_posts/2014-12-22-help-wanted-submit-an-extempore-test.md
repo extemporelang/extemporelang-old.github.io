@@ -1,6 +1,5 @@
 ---
 title: Help wanted: submit an Extempore test
-alias: ["./2014-12-22-help-wanted-submit-an-extempore-test.html"]
 tags: contributing
 ---
 

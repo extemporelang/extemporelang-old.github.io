@@ -1,6 +1,5 @@
 ---
 title: Building Extempore through Homebrew on OSX and Linux
-alias: ["./2013-11-12-building-extempore-through-homebrew.html"]
 categories: setup osx linux
 ---
 

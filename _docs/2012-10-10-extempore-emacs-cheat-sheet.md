@@ -1,6 +1,5 @@
 ---
 title: Extempore & Emacs cheat
-alias: ["./2012-10-10-extempore-emacs-cheat-sheet.html"]
 categories: tools emacs
 ---
 

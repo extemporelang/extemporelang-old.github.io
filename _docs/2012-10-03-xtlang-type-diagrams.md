@@ -1,6 +1,5 @@
 ---
 title: xtlang type diagrams
-alias: ["./2012-10-03-xtlang-type-diagrams.html"]
 categories: xtlang
 ---
 

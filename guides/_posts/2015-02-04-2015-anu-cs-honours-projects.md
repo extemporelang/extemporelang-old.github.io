@@ -1,6 +1,5 @@
 ---
 title: 2015 ANU CS Honours/Masters/Student projects
-alias: ["./2015-02-04-2015-anu-cs-honours-projects.html"]
 tags: contributing
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: More DSP and more Extempore types
-alias: ["./2012-06-07-more-dsp-and-extempore-types.html"]
 categories: xtlang audio
 ---
 

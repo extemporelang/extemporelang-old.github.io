@@ -1,6 +1,5 @@
 ---
 title: Extempore Generics
-alias: ["./2014-02-20-extempore-generics.html"]
 categories: xtlang generics
 ---
 

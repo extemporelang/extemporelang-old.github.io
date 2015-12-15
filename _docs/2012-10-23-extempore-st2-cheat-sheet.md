@@ -1,6 +1,5 @@
 ---
 title: Extempore & Sublime Text 2
-alias: ["./2012-10-23-extempore-st2-cheat-sheet.html"]
 categories: tools sublime-text
 ---
 

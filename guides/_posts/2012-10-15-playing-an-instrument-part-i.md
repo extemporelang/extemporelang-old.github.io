@@ -1,6 +1,5 @@
 ---
 title: Playing an instrument (part I)
-alias: ["./2012-10-15-playing-an-instrument-part-i.html"]
 categories: audio time musicmaking
 ---
 

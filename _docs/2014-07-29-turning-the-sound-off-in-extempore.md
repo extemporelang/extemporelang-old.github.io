@@ -1,6 +1,5 @@
 ---
 title: Turning the sound off in Extempore
-alias: ["./2014-07-29-turning-the-sound-off-in-extempore.html"]
 categories: audio setup
 ---
 

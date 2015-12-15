@@ -1,6 +1,5 @@
 ---
 title: Memory management in Extempore
-alias: ["./2012-08-17-memory-management-in-extempore.html"]
 categories: xtlang memory
 ---
 

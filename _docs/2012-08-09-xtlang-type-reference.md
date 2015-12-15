@@ -1,6 +1,5 @@
 ---
 title: xtlang type reference
-alias: ["./2012-08-09-xtlang-type-reference.html"]
 categories: xtlang
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Help wanted: extempore mini-projects
-alias: ["./2015-08-26-help-wanted-extempore-mini-projects.html"]
 tags: contributing
 ---
 

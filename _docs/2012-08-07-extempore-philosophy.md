@@ -1,6 +1,5 @@
 ---
 title: The Extempore philosophy
-alias: ["./2012-08-07-extempore-philosophy.html"]
 categories: extempore-overview
 ---
 

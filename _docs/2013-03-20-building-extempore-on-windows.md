@@ -1,6 +1,5 @@
 ---
 title: Building Extempore on Windows
-alias: ["./2013-03-20-building-extempore-on-windows.html"]
 categories: setup windows
 ---
 

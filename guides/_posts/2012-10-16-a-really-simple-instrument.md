@@ -1,6 +1,5 @@
 ---
 title: A really simple instrument
-alias: ["./2012-10-16-a-really-simple-instrument.html"]
 categories: xtlang audio
 ---
 

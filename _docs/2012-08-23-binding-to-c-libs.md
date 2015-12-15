@@ -1,6 +1,5 @@
 ---
 title: Binding to C libs
-alias: ["./2012-08-23-binding-to-c-libs.html"]
 categories: xtlang C-interop
 ---
 

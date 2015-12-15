@@ -1,6 +1,5 @@
 ---
 title: Interacting with the Extempore Compiler
-alias: ["./2012-09-26-interacting-with-the-extempore-compiler.html"]
 categories: extempore-overview
 ---
 

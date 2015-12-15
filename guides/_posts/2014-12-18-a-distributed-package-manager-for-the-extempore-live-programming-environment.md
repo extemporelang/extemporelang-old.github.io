@@ -1,6 +1,5 @@
 ---
 title: A distributed package manager for the Extempore live programming environment
-alias: ["./2014-12-18-a-distributed-package-manager-for-the-extempore-live-programming-environment.html"]
 categories: tools contributing
 ---
 

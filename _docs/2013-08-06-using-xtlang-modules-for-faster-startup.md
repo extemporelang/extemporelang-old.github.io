@@ -1,6 +1,5 @@
 ---
 title: Using xtlang modules for faster startup
-alias: ["./2013-08-06-using-xtlang-modules-for-faster-startup.html"]
 categories: xtlang modules
 ---
 

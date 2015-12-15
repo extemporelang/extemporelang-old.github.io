@@ -1,6 +1,5 @@
 ---
 title: Extempore for Impromptu users
-alias: ["./2012-10-15-extempore-for-impromptu-users.html"]
 categories: extempore-overview impromptu
 ---
 

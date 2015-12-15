@@ -1,6 +1,5 @@
 ---
 title: Hacking Extempore in vim
-alias: ["./2014-11-07-hacking-extempore-in-vim.html"]
 categories: vim tools
 ---
 

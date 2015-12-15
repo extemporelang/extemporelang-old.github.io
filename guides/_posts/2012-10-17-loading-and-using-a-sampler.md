@@ -1,6 +1,5 @@
 ---
 title: Loading and using a sampler
-alias: ["./2012-10-17-loading-and-using-a-sampler.html"]
 categories: xtlang audio C-interop
 ---
 

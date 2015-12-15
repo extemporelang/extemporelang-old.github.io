@@ -1,6 +1,5 @@
 ---
 title: Understanding pointers in xtlang
-alias: ["./2012-08-13-understanding-pointers-in-xtlang.html"]
 categories: xtlang memory
 ---
 

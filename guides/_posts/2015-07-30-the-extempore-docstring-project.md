@@ -1,6 +1,5 @@
 ---
 title: The Extempore docstring project
-alias: ["./2015-07-30-the-extempore-docstring-project.html"]
 categories: contributing
 ---
 

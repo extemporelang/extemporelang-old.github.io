@@ -1,6 +1,5 @@
 ---
 title: Changing from doubles to floats in audio_dsp
-alias: ["./2013-11-15-changing-from-doubles-to-floats-in-audio_dsp.html"]
 categories: xtlang audio
 ---
 

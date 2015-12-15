@@ -1,6 +1,5 @@
 ---
 title: Making an Instrument
-alias: ["./2012-09-28-making-an-instrument.html"]
 categories: xtlang audio
 ---
 

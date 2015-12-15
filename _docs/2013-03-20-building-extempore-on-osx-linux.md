@@ -1,6 +1,5 @@
 ---
 title: Building Extempore from source on OSX & Linux
-alias: ["./2013-03-20-building-extempore-on-osx-linux.html"]
 categories: setup osx linux
 ---
 

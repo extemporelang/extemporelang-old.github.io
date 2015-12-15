@@ -1,6 +1,5 @@
 ---
 title: Reading & writing audio files in Extempore
-alias: ["./2012-11-26-reading-writing-audio-files-in-extempore.html"]
 categories: xtlang audio
 ---
 

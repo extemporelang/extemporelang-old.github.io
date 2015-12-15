@@ -1,6 +1,5 @@
 ---
 title: xtlang naming conventions
-alias: ["./2012-10-15-xtlang-naming-conventions.html"]
 categories: xtlang
 ---
 
