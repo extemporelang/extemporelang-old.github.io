@@ -1,5 +1,5 @@
 ---
-title: Help wanted: extempore mini-projects
+title: Extempore mini-projects
 tags: contributing
 ---
 

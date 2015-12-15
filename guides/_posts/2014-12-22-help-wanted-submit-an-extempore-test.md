@@ -1,5 +1,5 @@
 ---
-title: Help wanted: submit an Extempore test
+title: Submit an Extempore test
 tags: contributing
 ---
 
