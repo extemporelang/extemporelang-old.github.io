@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Loading and using a sampler
 categories: xtlang audio C-interop
 ---

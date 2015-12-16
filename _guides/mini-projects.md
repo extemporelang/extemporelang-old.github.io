@@ -1,6 +1,5 @@
 ---
 title: Extempore mini-projects
-layout: docs
 tags: contributing
 ---
 

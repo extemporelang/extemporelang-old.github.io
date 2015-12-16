@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Memory management in Extempore
 categories: xtlang memory
 ---

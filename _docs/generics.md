@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Extempore Generics
 categories: xtlang generics
 ---

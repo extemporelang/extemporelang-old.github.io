@@ -1,6 +1,5 @@
 ---
 title: Getting Started
-layout: docs
 ---
 
 ## Introduction

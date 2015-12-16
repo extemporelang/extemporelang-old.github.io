@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: The Extempore philosophy
 categories: extempore-overview
 ---

@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Understanding pointers in xtlang
 categories: xtlang memory
 ---

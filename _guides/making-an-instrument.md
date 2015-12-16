@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Making an Instrument
 categories: xtlang audio
 ---

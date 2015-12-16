@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Extempore & Sublime Text 2
 categories: tools sublime-text
 ---

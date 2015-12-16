@@ -1,6 +1,5 @@
 ---
 title: Submit an Extempore test
-layout: docs
 tags: contributing
 ---
 

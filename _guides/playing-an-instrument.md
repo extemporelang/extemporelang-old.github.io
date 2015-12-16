@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Playing an instrument (part I)
 categories: audio time musicmaking
 ---

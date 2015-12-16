@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: xtlang type reference
 categories: xtlang
 ---

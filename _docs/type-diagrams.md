@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: xtlang type diagrams
 categories: xtlang
 ---

@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Extempore & Emacs cheat
 categories: tools emacs
 ---

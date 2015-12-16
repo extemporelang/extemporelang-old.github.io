@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: xtlang naming conventions
 categories: xtlang
 ---

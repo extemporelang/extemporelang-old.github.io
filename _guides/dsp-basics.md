@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: DSP basics in Extempore
 categories: xtlang audio
 ---

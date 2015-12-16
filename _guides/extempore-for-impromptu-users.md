@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Extempore for Impromptu users
 categories: extempore-overview impromptu
 ---

@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Binding to C libs
 categories: xtlang C-interop
 ---

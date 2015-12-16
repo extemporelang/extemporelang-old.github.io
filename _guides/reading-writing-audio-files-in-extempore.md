@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Reading & writing audio files in Extempore
 categories: xtlang audio
 ---

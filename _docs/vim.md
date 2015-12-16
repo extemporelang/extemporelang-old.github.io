@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Hacking Extempore in vim
 categories: vim tools
 ---

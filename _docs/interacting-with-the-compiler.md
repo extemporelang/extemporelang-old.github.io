@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Interacting with the Extempore Compiler
 categories: extempore-overview
 ---

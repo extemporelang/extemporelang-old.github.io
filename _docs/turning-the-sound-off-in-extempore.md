@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Turning the sound off in Extempore
 categories: audio setup
 ---

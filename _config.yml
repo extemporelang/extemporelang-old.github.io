@@ -11,6 +11,20 @@ collections:
   guides:
     output: true
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "docs"
+    values:
+      layout: "docs"
+  -
+    scope:
+      path: ""
+      type: "guides"
+    values:
+      layout: "docs"
+
 # Build settings
 markdown: kramdown
 highlighter: pygments

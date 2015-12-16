@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Changing from doubles to floats in audio_dsp
 categories: xtlang audio
 ---

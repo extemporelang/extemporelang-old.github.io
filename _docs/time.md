@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Time in Extempore
 categories: extempore-overview time
 ---

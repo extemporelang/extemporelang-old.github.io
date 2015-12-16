@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: More DSP and more Extempore types
 categories: xtlang audio
 ---

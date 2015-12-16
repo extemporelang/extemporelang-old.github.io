@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: 2015 ANU CS Honours/Masters/Student projects
 tags: contributing
 ---

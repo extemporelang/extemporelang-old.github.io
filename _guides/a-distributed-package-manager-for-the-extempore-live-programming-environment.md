@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: A distributed package manager for the Extempore live programming environment
 categories: tools contributing
 ---

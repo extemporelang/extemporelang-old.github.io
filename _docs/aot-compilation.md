@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: Using xtlang modules for faster startup
 categories: xtlang modules
 ---

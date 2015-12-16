@@ -1,5 +1,4 @@
 ---
-layout: docs
 title: A really simple instrument
 categories: xtlang audio
 ---
