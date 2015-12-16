@@ -1,7 +1,7 @@
 ---
 title: Extempore mini-projects
-layout: docstags:
-contributing
+layout: docs
+tags: contributing
 ---
 
 There are many aspects to developing a new language: tooling (editor
