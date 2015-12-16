@@ -1,7 +1,7 @@
 ---
 title: Submit an Extempore test
-layout: docstags: contributing
-
+layout: docs
+tags: contributing
 ---
 
 The Extempore community[^1] has done some cool stuff recently, including
